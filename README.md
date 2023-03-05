@@ -2,4 +2,6 @@
 Rooter By Any Device Without Any Problem 
 
 # install 
-      python root.py
+         git clone https://github.com/meta-version/Rooter
+         cd Rooter
+         python root.py
